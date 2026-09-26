@@ -1,0 +1,1 @@
+# nifty-banknifty-30min-prediction
