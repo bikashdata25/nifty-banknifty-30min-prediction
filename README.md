@@ -1,4 +1,3 @@
-# nifty-banknifty-30min-prediction
 # NIFTY & BANK NIFTY 30-Minute Direction Prediction System
 
 A Python-based market intelligence and machine learning system designed to analyze **NIFTY 50** and **BANK NIFTY** market behavior and estimate the probability of their short-term direction during the first 30 minutes of the trading session.
